@@ -85,7 +85,7 @@ buttons = [
             text="ᴀᴅᴅ [🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱] ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/tiranga_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/Divyanshusingh7/TrishaManager"),
+        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://youtu.be/oe44RqKqupM"),
         InlineKeyboardButton(
             text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/clanlordxFed"
         ),
@@ -108,7 +108,7 @@ HELP_STRINGS = """
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [𝐓𝐈𝐑𝐀𝐍𝐆𝐀](t.me/clanlord7) \
+ You can support the project [[🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱]](t.me/clanlord7) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -222,7 +222,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>【𝐓𝐈𝐑𝐀𝐍𝐆𝐀】 is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>[🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱] is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -366,7 +366,7 @@ def zaid_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @DevilTrishaRoBot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/Divyanshusingh7/TrishaManager).
+                 \nHere is the [💾Repository](https://youtu.be/n_M9P44r9ag).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -394,7 +394,7 @@ def Source_about_callback(update, context):
     if query.data == "source_":
         query.message.edit_text(
             text=""" Hi..🤗 I am [【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】](t.me/tiranga_bot)
-                 \nHere is the [Source Code](https://github.com/rakeshyt/TrishaManager) .""",
+                 \nHere is the [Tutorial](https://youtu.be/Ce4v_w-Habw) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
