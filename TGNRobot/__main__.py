@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ʜᴏɪ, ɪ ᴍ 【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/3f3c1824acae809163899.jpg)
+ [❤](https://telegra.ph/file/64a53ca153d82bbab5bcc.jpg)
 """
 
 buttons = [
@@ -103,7 +103,7 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/3f3c1824acae809163899.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/64a53ca153d82bbab5bcc.jpg)"""
 
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
@@ -357,16 +357,16 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】](t.me/DevilTrishaRoBot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】](t.me/tiranga_bot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】licensed under the GNU General Public License v3.0_
+                 \n\n_【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @DevilTrishaRoBot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/rakeshyt/TrishaManager).
+                 \nHere is the [💾Repository](https://github.com/Divyanshusingh7/TrishaManager).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -393,7 +393,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡](t.me/DevilTrishaRoBot)
+            text=""" Hi..🤗 I am [【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】](t.me/tiranga_bot)
                  \nHere is the [Source Code](https://github.com/rakeshyt/TrishaManager) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
