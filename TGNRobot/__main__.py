@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ 【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】
+ʜᴏɪ, ɪ ᴍ 【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
  [❤](https://telegra.ph/file/64a53ca153d82bbab5bcc.jpg)
 """
@@ -82,7 +82,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ [🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱] ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/tiranga_bot?startgroup=true"),
+            text="ᴀᴅᴅ 【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】 ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/tiranga_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://youtu.be/oe44RqKqupM"),
@@ -108,7 +108,7 @@ HELP_STRINGS = """
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [[🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱]](t.me/clanlord7) \
+ You can support the project [【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】](t.me/clanlord7) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -222,7 +222,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>[🇮🇳]𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽  🔱] is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】 is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -357,14 +357,14 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】](t.me/tiranga_bot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】](t.me/tiranga_bot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】licensed under the GNU General Public License v3.0_
+                 \n\n_【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @DevilTrishaRoBot\_Assistant.
                  \nHere is the [💾Repository](https://youtu.be/n_M9P44r9ag).
                  \n\nIf you have any question about bot, let us know at .""",
@@ -393,7 +393,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [【🇮🇳𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 ʙᴏᴛ 🔱🇳】](t.me/tiranga_bot)
+            text=""" Hi..🤗 I am [【🇮🇳】𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋【🔱】](t.me/tiranga_bot)
                  \nHere is the [Tutorial](https://youtu.be/Ce4v_w-Habw) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
