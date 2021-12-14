@@ -6,12 +6,12 @@
   <a href="https://github.com/rakeshyt/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.m<img src="https://telegra.ph/file/d71608g" width="300"></a></p>
+/a></p>
 
 ## jai shree ram (https://t.me/Shivaymusicbot)
 
 # ❤️ Suppport
-<a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/SonalModdingGod"><img src="httpss.io/badgoin-Telegram%20Channel-red.svg?logo=Telegram"></a>
 </a>
 
 
@@ -26,8 +26,8 @@ The easiest way to deploy this Bot is via Heroku.
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
-### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️⃝🇮🇳★𝐃𝐞𝐯𝐢𝐋😈𝐇𝐚𝐜𝐤𝐞𝐫★🇮🇳⃝🕊️](https://) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+### 𝙎𝙥
+- [🕊𝐫★🇮🇳⃝🕊️](https://) 𝐃𝐞𝐯𝐞
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://imgio/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/JaiHindChatting"><img src="https://imgio/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a
