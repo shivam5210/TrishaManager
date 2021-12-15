@@ -22,7 +22,7 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/TrishaManager"> <img src="https:shDroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/shivam5210"> <img src="https://telegra.ph/file/f4a510a9133b2d0507997.jpg" width="220" height="38.45"/></a></p>;
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
@@ -30,4 +30,4 @@ The easiest way to deploy this Bot is via Heroku.
 - [🕊️⃝🇮🇳★𝐃𝐞𝐯𝐢𝐋😈𝐇𝐚𝐜𝐤𝐞𝐫★🇮🇳⃝🕊️](https://) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://imgio/badge/Join-Group%20Suppfor-the-badgam"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svgfor-the-badge&logo=Telegram"></a>
+<a href="https://t.me/friends_chatting_world2k21"><img src="https://telegra.ph/file/8396cdc4e72d2d6cb0bf7.jpg"</a> <a href="https://t.me/friends_chatting_world2k21"></a>
