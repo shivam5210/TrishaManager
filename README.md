@@ -22,7 +22,7 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/shivam5210"> <img src="https://telegra.ph/file/f4a510a9133b2d0507997.jpg" width="220" height="38.45"/></a></p>;
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/Trishamanagement"> <img src="https://telegra.ph/file/f4a510a9133b2d0507997.jpg" width="220" height="38.45"/></a></p>;
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
